@@ -35,7 +35,7 @@ const PortfolioScreen = ({ navigation }: any) => {
     },
     {
       name: "Portfolio (ReactNative)",
-      repoUrl: "https://github.com/Lautarolpz98/MangApp",
+      repoUrl: "https://github.com/Lautarolpz98/LautaroLopezDev",
       image: require("../assets/LAUTARO.jpeg"),
     },
   ];
